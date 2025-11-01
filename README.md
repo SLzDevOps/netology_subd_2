@@ -1,6 +1,6 @@
 # Домашнее задание по лекции "Кеширование Redis/memcached" - Фомичев Анатолий
 
-## Ссылка на дз - [https://github.com/netology-code/sdb-homeworks/blob/main/11-01.md] (https://github.com/netology-code/sdb-homeworks/blob/main/11-02.md)
+## Ссылка на дз - https://github.com/netology-code/sdb-homeworks/blob/main/11-02.md
 
 ### Задание 1
 ` Кеширование с использованием Redis или Memcached может решить проблемы, связанные с производительностью и масштабируемостью приложений. 
